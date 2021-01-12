@@ -1,5 +1,11 @@
 # StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows
 
+一种基于StyleGAN2的新技术——StyleFlow，根据指定条件，就可以生成人脸。
+
+除了上面这些换女装、变秃、画胡子等功能，还集成了换姿势、调整光照、改变表情等效果，甚至还可以用在车上。
+
+
+
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-green.svg?style=plastic)
 ![pytorch 1.1.0](https://img.shields.io/badge/Pytorch-1.1.0-green.svg?style=plastic)
 ![TensorFlow 1.15.0](https://img.shields.io/badge/TensorFlow-1.15.0-green.svg?style=plastic)
